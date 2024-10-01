@@ -11,5 +11,5 @@ make
 
 Run with:
 ```
-./filter_pcd
+./filter_pcd path/to/input.pcd [path/to/output.pcd]
 ```
